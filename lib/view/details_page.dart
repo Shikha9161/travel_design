@@ -86,7 +86,7 @@ class _DetailsPageState extends State<DetailsPage> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           const Text(
-                            'Semeru Mountain',
+                            'DLS Hotels',
                             style: TextStyle(
                               fontFamily: 'Poppins',
                               fontSize: 24,
@@ -107,7 +107,7 @@ class _DetailsPageState extends State<DetailsPage> {
                               ),
                               const SizedBox(width: 7),
                               Text(
-                                'Malang, East Java',
+                                'Dehradun , Uttarakhand',
                                 style: TextStyle(
                                   fontFamily: 'Poppins',
                                   fontSize: 14,
@@ -252,7 +252,7 @@ class _DetailsPageState extends State<DetailsPage> {
                      ),
                      SizedBox(height: 10,),
                      Text(
-                       'Ranupane', // Replace with your text
+                       'Dehradun', // Replace with your text
                        style: TextStyle(
                          fontSize: 12,
                          // Adjust the font size as needed
@@ -266,7 +266,7 @@ class _DetailsPageState extends State<DetailsPage> {
             SizedBox(height: 20,),
             Text("Desciption",style: TextStyle(fontSize: 14,color: Colors.black),),
             SizedBox(height: 5,),
-            Text("Mount Semeru or Mount Meru is a cone volcano in East Java, Indonesia. Mount Semeru is the highest mountain on the island of Java, with its peak Mahameru, 3,676 meters above sea level.",style: TextStyle(fontSize: 12,color: Colors.black87),)
+            Text("The Grand Luxotica by DLS Hotels is a great choice for travellers looking for a 4 star star hotel in Dehradun. This Hotel stands out as one of the highly recommended hotel in Dehradun. Hotel is rated 4.1 out of 5, which is considered as very good..",style: TextStyle(fontSize: 12,color: Colors.black87),)
 
           ],
         ),
